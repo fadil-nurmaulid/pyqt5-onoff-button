@@ -9,7 +9,7 @@ A simple PyQt5 GUI application that features a single button to toggle between O
 ## About
 
 This project was created as a beginner exercise to learn how to build simple GUI applications using PyQt5.  
-The GUI includes a custom icon (`icon.png`) and a toggle button.
+The GUI includes a custom icon (`Icon.jpg`) and a toggle button.
 
 ## Requirements
 
@@ -18,12 +18,12 @@ The GUI includes a custom icon (`icon.png`) and a toggle button.
 
 ## How to Run
 
-Make sure to download all project files, including the icon image file (`icon.png`) used in the GUI.
+Make sure to download all project files, including the icon image file (`Icon.jpg`) used in the GUI.
 
 To run the program, open your terminal or command prompt, navigate to the project folder, and run:
 
 ```bash
-python onoff_button.py
+python on_off_button.py
 
 
 
