@@ -8,7 +8,8 @@ A simple PyQt5 GUI application that features a single button to toggle between O
 
 ## 🖼️ Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot1](assets/Screenshot1.png)
+![Screenshot2](assets/Screenshot2.png)
 
 ## About
 
