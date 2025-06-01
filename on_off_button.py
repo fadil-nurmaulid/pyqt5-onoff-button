@@ -9,7 +9,7 @@ class Lamp(QWidget):
     def __init__(self):
         super().__init__()
         self.setWindowTitle("On_Off Button")
-        icon_path = os.path.join(os.path.dirname(__file__), "Icon.jpg")
+        icon_path = os.path.join(os.path.dirname(__file__), "assets/Icon.jpg")
         self.setWindowIcon(QIcon(icon_path))
         self.setFixedSize(340, 100)
         
