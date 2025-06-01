@@ -13,3 +13,6 @@ To run the application, open your terminal or command prompt, navigate to the pr
 
 ```bash
 python yourfilename.py
+
+## About
+This project was created as a beginner exercise to learn how to build simple GUI applications using PyQt5.
