@@ -25,6 +25,7 @@ To run the program, open your terminal or command prompt, navigate to the projec
 ```bash
 python on_off_button.py
 
+```markdown
 ## 🖼️ Screenshot
 
 ![Screenshot1](assets/Screenshot1.png)
