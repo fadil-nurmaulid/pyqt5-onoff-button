@@ -6,6 +6,10 @@ A simple PyQt5 GUI application that features a single button to toggle between O
 - Simple and clean user interface
 - Toggle button changes the label text from ON to OFF and vice versa
 
+## 🖼️ Screenshot
+
+![Screenshot](screenshot.png)
+
 ## About
 
 This project was created as a beginner exercise to learn how to build simple GUI applications using PyQt5.  
